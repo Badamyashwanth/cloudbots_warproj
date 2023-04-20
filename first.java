@@ -1,1 +1,1 @@
-to push the in to jenkins using maven
+to push the in to jenkins hello world
